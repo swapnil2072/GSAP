@@ -66,5 +66,12 @@ img {
     position: absolute;
     top: 15%;
     left: 40%;
+}
 
+#img1 {
+    rotate: 45deg;
+}
+
+#img2 {
+    rotate: -60deg;
 }

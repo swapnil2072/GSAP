@@ -16,9 +16,9 @@ tl.from("main h1", {
 });
 
 tl.from("img", {
-  x:100,
-  rotate:45,
-  opacity:0,
-  duration:0.5,
-  stagger:0.1,
+  x: 100,
+  rotate: 45,
+  opacity: 0,
+  duration: 1,
+  stagger: 0.1,
 });
